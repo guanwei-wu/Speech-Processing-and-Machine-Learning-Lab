@@ -1,5 +1,12 @@
 # Speech-Processing-and-Machine-Learning-Lab
 語音處理暨機器學習實驗室
+## Textless NLP 2022 Spring
+>Data preprocess and train on NLU datasets on discrete units with the duration information
+>
+Reference: [Meta AI](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/) / 
+[Textless NLP Project](https://speechbot.github.io/) / 
+[GSLM](https://arxiv.org/pdf/2102.01192.pdf) / 
+[Speech Resynthesis](https://arxiv.org/pdf/2104.00355.pdf)
 
 ## DLHLP 2021 Fall
 >HW1: End-to-end ASR
